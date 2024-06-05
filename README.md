@@ -17,3 +17,5 @@ Este proyecto utiliza la API https://api.imgflip.com/get_memes. Esta API proporc
 
    ```bash
    git clone https://github.com/Nazaaa7/Naza-Garcia-API.git
+
+2_ ejecutar el archivo index.html
