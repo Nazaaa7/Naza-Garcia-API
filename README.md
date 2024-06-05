@@ -13,9 +13,5 @@ Este proyecto utiliza la API https://api.imgflip.com/get_memes. Esta API proporc
 
 ### Clonar el Repositorio
 
-1_ Clona el repositorio:
 
-   ```bash
-   git clone https://github.com/Nazaaa7/Naza-Garcia-API.git
-
-2_ ejecutar el archivo index.html
+1_ ejecutar el archivo index.html
